@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of Samuel LAWSON HETCHELY from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="A1-Automatisation-TI" title="A1-Automatisation-TI">
+      <outline text="Sysadmin" title="Sysadmin" type="rss" xmlUrl="https://www.reddit.com/r/sysadmin/.rss" htmlUrl="https://www.reddit.com/r/sysadmin/"/>
+      <outline text="Devops" title="Devops" type="rss" xmlUrl="https://www.reddit.com/r/devops/.rss" htmlUrl="https://www.reddit.com/r/devops/"/>
+      <outline text="Hachyderm" title="Hachyderm" type="rss" xmlUrl="https://hachyderm.io/@hachyderm.rss" htmlUrl="https://hachyderm.io/@hachyderm"/>
+      <outline text="HashiCorp community" title="HashiCorp community" type="rss" xmlUrl="https://www.reddit.com/r/hashicorp/.rss" htmlUrl="https://www.reddit.com/r/hashicorp/"/>
+      <outline text="OpenTofu Blog" title="OpenTofu Blog" type="rss" xmlUrl="https://opentofu.org/blog/rss.xml" htmlUrl="https://opentofu.org/blog"/>
+      <outline text="Red Hat Blog" title="Red Hat Blog" type="rss" xmlUrl="https://www.redhat.com/en/blog/rss.xml" htmlUrl="https://www.redhat.com/en/rss/blog"/>
+    </outline>
+    <outline text="A2 — CI/CD &amp; pipelines" title="A2 — CI/CD &amp; pipelines">
+      <outline text="Azure DevOps Blog" title="Azure DevOps Blog" type="rss" xmlUrl="https://devblogs.microsoft.com/devops/feed/" htmlUrl="https://devblogs.microsoft.com/devops"/>
+      <outline text="GitLab Major Releases" title="GitLab Major Releases" type="rss" xmlUrl="https://about.gitlab.com/releases.xml" htmlUrl="https://about.gitlab.com/releases/categories/releases/"/>
+      <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
+      <outline text="The CircleCI Blog Feed - CircleCI" title="The CircleCI Blog Feed - CircleCI" type="rss" xmlUrl="https://circleci.com/blog/feed.xml" htmlUrl="https://circleci.com/blog/"/>
+      <outline text="Blog – JFrog" title="Blog – JFrog" type="rss" xmlUrl="https://jfrog.com/blog/feed/" htmlUrl="https://jfrog.com/"/>
+      <outline text="Cloud Native Computing Foundation" title="Cloud Native Computing Foundation" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvqbFHwN-nwalWPjPUKpvTA" htmlUrl="http://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA"/>
+    </outline>
+    <outline text="A3 — Dagger" title="A3 — Dagger">
+      <outline text="Release notes from dagger" title="Release notes from dagger" type="rss" xmlUrl="https://github.com/dagger/dagger/releases.atom" htmlUrl="https://github.com/dagger/dagger/releases"/>
+      <outline text="Commits dagger" title="Commits dagger" type="rss" xmlUrl="https://github.com/dagger/dagger/commits/main.atom" htmlUrl="https://github.com/dagger/dagger/commits/main"/>
+      <outline text="Kubernetes Releases" title="Kubernetes Releases" type="rss" xmlUrl="https://github.com/kubernetes/kubernetes/releases.atom" htmlUrl="https://github.com/kubernetes/kubernetes/releases"/>
+      <outline text="Self-Hosted Alternatives to Popular Services" title="Self-Hosted Alternatives to Popular Services" type="rss" xmlUrl="https://www.reddit.com/r/selfhosted/.rss" htmlUrl="https://www.reddit.com/r/selfhosted/"/>
+    </outline>
+    <outline text="Stratégique" title="Stratégique">
+      <outline text="InfoQ" title="InfoQ" type="rss" xmlUrl="https://www.infoq.com/feed/" htmlUrl="https://www.infoq.com/"/>
+      <outline text="DevOps Research and Assessment on" title="DevOps Research and Assessment on" type="rss" xmlUrl="https://dora.dev/index.xml" htmlUrl="https://dora.dev/"/>
+      <outline text="Stack Overflow Blog" title="Stack Overflow Blog" type="rss" xmlUrl="https://stackoverflow.blog/feed/" htmlUrl="https://stackoverflow.blog"/>
+      <outline text="The New Stack" title="The New Stack" type="rss" xmlUrl="https://thenewstack.io/feed/" htmlUrl="https://thenewstack.io/"/>
+    </outline>
+  </body>
+</opml>
